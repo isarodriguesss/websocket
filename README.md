@@ -4,7 +4,7 @@ Este é um projeto de aplicação simples de WebSockets com Flask, Flask-Sockets
 
 Equipe:
 - Isadora Rodrigues
-- Yago
+- Yago Vilela
 
 Requerimentos para a aplicação:
 - Flask==0.10.1
